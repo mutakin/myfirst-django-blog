@@ -25,7 +25,7 @@ SECRET_KEY = 'l2wpt=3@%^62dpfq19@@p$+fi^mpg#fasjf!lu^i$-mr@v^rls'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','mut.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
